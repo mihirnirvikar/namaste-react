@@ -1,0 +1,19 @@
+{
+  "name": "episode2",
+  "version": "1.0.0",
+  "description": "Learn about some bundlers",
+  "license": "ISC",
+  "author": "Mihir Nirvikar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.16.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.1"
+  }
+}
