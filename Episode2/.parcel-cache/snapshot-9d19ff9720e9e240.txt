@@ -5,7 +5,7 @@
 103C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\transformer-babel\lib\jsx.js134031923096201846 0
 114C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\caniuse-lite\data\features\css-marker-pseudo.js134031923110919002 0
 113C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE134031923087364497 0
-64C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\.gitignore134031848666149228 0
+64C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\.gitignore134032614519841623 0
 105C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\type-fest\source\iterable-element.d.ts134031923097305456 0
 94C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@swc\helpers\_\_await_value134031923111436672 1
 66C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\package.json134032612338498484 0
@@ -26,7 +26,7 @@
 123C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE134031923094583992 0
 84C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\dotenv-expand\lib134031923093649569 1
 94C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\events\package.json134031923096185973 0
-58C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist134032612359733331 1
+58C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist134033569679529075 1
 108C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@swc\helpers\_\_skip_first_generator_next134031923117919803 1
 90C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\escalade\dist\index.mjs134031923092540778 0
 83C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\react-router-dom134031927484937265 1
@@ -36,7 +36,7 @@
 92C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@swc\helpers\cjs\_jsx.cjs134031923103523628 0
 116C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c134031923105216824 0
 102C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\caniuse-lite\data\regions\alt-an.js134031923097220105 0
-60C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\App.js134031934157361688 0
+60C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\App.js134033569676266729 0
 97C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\lightningcss\node\targets.d.ts134031923097648717 0
 64C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\index.html134031931125015718 0
 94C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\react-dom\server.browser.js134031927484479620 0
@@ -658,7 +658,7 @@
 80C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@lezer\common134031923094020745 1
 83C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\msgpackr\LICENSE134031923087344490 0
 84C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\tslib\LICENSE.txt134031923096231817 0
-69C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\index.html134032612357757545 0
+69C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\index.html134033569547723905 0
 80C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\tslib\modules134031923095003972 1
 101C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\packager-js\src\helpers.js134031923096022056 0
 82C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\tslib\README.md134031923093890563 0
@@ -3607,7 +3607,7 @@
 103C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\core\src\summarizeRequest.js134031923109234933 0
 101C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\core\src\Transformation.js134031923110457021 0
 93C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\core\src\worker.js134031923110898941 0
-79C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\Episode2.cb65f72e.js134032612359518781 0
+79C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\Episode2.cb65f72e.js134033569679224519 0
 113C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\core\src\requests\AssetGraphRequest.js134031923099757742 0
 109C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\core\src\requests\ConfigRequest.js134031923103462859 0
 110C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\@parcel\core\src\requests\PackageRequest.js134031923106557946 0
@@ -3714,4 +3714,4 @@
 94C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\node_modules\.bin\update-browserslist-db134031923141573354 0
 83C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\Episode2.3464ddca.js.map134031924073384567 0
 83C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\Episode2.44fe22c1.js.map134032605910890320 0
-83C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\Episode2.cb65f72e.js.map134032612359695851 0
+83C:\Users\ASUS\OneDrive\Desktop\Namaste-React\Episode2\dist\Episode2.cb65f72e.js.map134033569679479042 0
